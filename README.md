@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Rental E-commerce Store (React Native - MERN)<br>🌱 I’m currently learning DSA<br>💬 Ask me about React, React-Native, Nodejs, Javascript, MongoDB, Firebase<br>⚡ Fun fact In spare time I like to watch tv series and anime.
+🔭 I’m currently working on E-Learning Platform (NodeJS, MONGODB, Express and NextJS)<br>🌱 I’m currently learning DSA<br>💬 Ask me about React, React-Native, Nodejs, Javascript, MongoDB, Firebase<br>⚡ Fun fact In spare time I like to watch tv series and anime.
 
 
 ## 🌐 Socials:
