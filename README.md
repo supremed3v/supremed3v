@@ -1,4 +1,4 @@
-<p align="left">Hello World!</p>
+<p align="left">Hello World!!</p>
 
 ###
 
@@ -130,18 +130,14 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/supremed3v/supremed3v/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31eckif3byjfywza46u7qnc2wt6y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31eckif3byjfywza46u7qnc2wt6y&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
+  <img src="?" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
